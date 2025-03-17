@@ -11,7 +11,7 @@ The two below commands are used to check the wifi passwords:
 ```
 $ netsh wlan show profile
 
-```
+```netsh wlan show porfile
 
 ```
 $ netsh wlan show profile PROFILE-NAME key=clear
